@@ -1,0 +1,74 @@
+
+.cardcampeao{
+    background-color: rgba(0, 0, 0, 0.603);
+    padding: 1%;
+    margin: 5%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 55px;
+    
+    
+    
+    
+}
+
+.cardcampeao:hover{
+    
+    transform: scale(0.9);
+
+}
+
+.cardimage{
+    padding: 5%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 65px;
+
+    
+    
+    
+    
+    
+}
+
+
+.TituloCard{
+    color:aliceblue;
+    
+    
+}
+
+.BarraDano{
+    background-color: rgba(0, 0, 0, 0.120);
+    border-radius: 0;
+    --bs-progress-bar-bg:rgb(110, 0, 0);
+    
+    
+    
+    
+    
+}
+
+.BarraResistencia{
+    background-color: rgb(0, 0, 0, 0.120);
+    border-radius: 0;
+    --bs-progress-bar-bg:rgb(110, 90, 0);
+
+}
+
+.BarraUtilidade{
+    background-color: rgb(0, 0, 0, 0.120);
+    border-radius: 0;
+    --bs-progress-bar-bg:rgb(18, 110, 0);
+
+}
+
+.BarraControleGrupo{
+    background-color: rgb(0, 0, 0, 0.120);
+    border-radius: 0;
+    --bs-progress-bar-bg:rgb(92, 0, 110);
+
+}
+
+.CorFonte{
+    color: white;
+}
+
